@@ -3,10 +3,11 @@
 This repo contains the codes, images, report and slides for the project of the course - `MTH673A: Robust Statistical Methods` at IIT Kanpur during the academic year 2022-2023.
 
 ## Project Members
-  - Arkajyoti Bhattacharjee 
-  - Rachita Mondal
-  - Shubha Sankar Banerjee
-  - Ritwik Vashistha
+
+  - [Arkajyoti Bhattacharjee](https://github.com/ArkaB-DS)
+  - [Rachita Mondal](https://github.com/Rachita-Mondal)
+  - [Ritwik Vashishtha](https://github.com/ritwikvashistha)
+  - [Shubha Sankar Banerjee](https://github.com/shubha3)
 
 ## Project Title
 `Efficient High-dimensional Robust  Variable Selection via Rank-based LASSO Methods`[`Report`](https://github.com/ArkaB-DS/rankLASSO/blob/main/Robust_Project_II.pdf)[`Slides`](https://github.com/ArkaB-DS/rankLASSO/blob/main/Robust_Project_II__slides_.pdf)
